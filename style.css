@@ -2,7 +2,10 @@ body {
         font-family: 'Courier New', Courier, monospace;
         background: rgb(255, 255, 255);
         background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(194, 210, 228, 1) 100%);
-
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 15px;
+padding-bottom: 15px;
     }
 
     h1 {
